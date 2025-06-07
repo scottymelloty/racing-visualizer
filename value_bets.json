@@ -971,5 +971,12 @@
     "horse": "Zoffanien",
     "bookie_odds": "10/1",
     "model_odds": "13/2"
+  },
+  {
+    "race_datetime": "07/06/2025 17:35",
+    "course": "Navan",
+    "horse": "Omakase",
+    "bookie_odds": "15/2",
+    "model_odds": "9/2"
   }
 ]
