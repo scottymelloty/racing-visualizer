@@ -782,5 +782,12 @@
     "horse": "Monsieur Fantaisie",
     "bookie_odds": "10/1",
     "model_odds": "11/2"
+  },
+  {
+    "race_datetime": "07/06/2025 17:10",
+    "course": "Doncaster",
+    "horse": "Electoral College",
+    "bookie_odds": "4/1",
+    "model_odds": "5/2"
   }
 ]
