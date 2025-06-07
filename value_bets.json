@@ -1,1 +1,226 @@
-
+[
+  {
+    "race_datetime": "07/06/2025 13:00",
+    "course": "Epsom Downs",
+    "horse": "Bermuda Longtail",
+    "bookie_odds": "4/1",
+    "model_odds": "11/4"
+  },
+  {
+    "race_datetime": "07/06/2025 13:00",
+    "course": "Epsom Downs",
+    "horse": "Bright Thunder",
+    "bookie_odds": "14/1",
+    "model_odds": "9/1"
+  },
+  {
+    "race_datetime": "07/06/2025 14:10",
+    "course": "Epsom Downs",
+    "horse": "Blinky",
+    "bookie_odds": "15/2",
+    "model_odds": "5/1"
+  },
+  {
+    "race_datetime": "07/06/2025 14:45",
+    "course": "Epsom Downs",
+    "horse": "Existent",
+    "bookie_odds": "17/2",
+    "model_odds": "5/1"
+  },
+  {
+    "race_datetime": "07/06/2025 14:45",
+    "course": "Epsom Downs",
+    "horse": "Nogo's Dream",
+    "bookie_odds": "28/1",
+    "model_odds": "12/1"
+  },
+  {
+    "race_datetime": "07/06/2025 14:45",
+    "course": "Epsom Downs",
+    "horse": "Blind Beggar",
+    "bookie_odds": "18/1",
+    "model_odds": "10/1"
+  },
+  {
+    "race_datetime": "07/06/2025 15:30",
+    "course": "Epsom Downs",
+    "horse": "Midak",
+    "bookie_odds": "8/1",
+    "model_odds": "5/1"
+  },
+  {
+    "race_datetime": "07/06/2025 15:30",
+    "course": "Epsom Downs",
+    "horse": "Lambourn",
+    "bookie_odds": "7/1",
+    "model_odds": "9/2"
+  },
+  {
+    "race_datetime": "07/06/2025 15:30",
+    "course": "Epsom Downs",
+    "horse": "Damysus",
+    "bookie_odds": "14/1",
+    "model_odds": "9/1"
+  },
+  {
+    "race_datetime": "07/06/2025 16:15",
+    "course": "Epsom Downs",
+    "horse": "Beauld As Brass",
+    "bookie_odds": "28/1",
+    "model_odds": "11/1"
+  },
+  {
+    "race_datetime": "07/06/2025 16:15",
+    "course": "Epsom Downs",
+    "horse": "Something",
+    "bookie_odds": "28/1",
+    "model_odds": "12/1"
+  },
+  {
+    "race_datetime": "07/06/2025 17:00",
+    "course": "Epsom Downs",
+    "horse": "War Hawk",
+    "bookie_odds": "7/2",
+    "model_odds": "9/4"
+  },
+  {
+    "race_datetime": "07/06/2025 17:00",
+    "course": "Epsom Downs",
+    "horse": "Cayman Dancer",
+    "bookie_odds": "10/1",
+    "model_odds": "7/1"
+  },
+  {
+    "race_datetime": "07/06/2025 17:40",
+    "course": "Epsom Downs",
+    "horse": "Circe",
+    "bookie_odds": "4/1",
+    "model_odds": "11/4"
+  },
+  {
+    "race_datetime": "07/06/2025 17:40",
+    "course": "Epsom Downs",
+    "horse": "Strike Red",
+    "bookie_odds": "9/2",
+    "model_odds": "3/1"
+  },
+  {
+    "race_datetime": "07/06/2025 17:40",
+    "course": "Epsom Downs",
+    "horse": "Intervention",
+    "bookie_odds": "33/1",
+    "model_odds": "16/1"
+  },
+  {
+    "race_datetime": "07/06/2025 16:00",
+    "course": "Doncaster",
+    "horse": "Let's Go Hugo",
+    "bookie_odds": "11/2",
+    "model_odds": "3/1"
+  },
+  {
+    "race_datetime": "07/06/2025 16:35",
+    "course": "Doncaster",
+    "horse": "Monsieur Fantaisie",
+    "bookie_odds": "13/2",
+    "model_odds": "9/2"
+  },
+  {
+    "race_datetime": "07/06/2025 17:10",
+    "course": "Doncaster",
+    "horse": "Electoral College",
+    "bookie_odds": "4/1",
+    "model_odds": "11/4"
+  },
+  {
+    "race_datetime": "07/06/2025 17:45",
+    "course": "Doncaster",
+    "horse": "Castan",
+    "bookie_odds": "22/1",
+    "model_odds": "9/1"
+  },
+  {
+    "race_datetime": "07/06/2025 17:45",
+    "course": "Doncaster",
+    "horse": "Hiya Maite",
+    "bookie_odds": "7/1",
+    "model_odds": "9/2"
+  },
+  {
+    "race_datetime": "07/06/2025 18:15",
+    "course": "Doncaster",
+    "horse": "Pole Star",
+    "bookie_odds": "6/1",
+    "model_odds": "10/3"
+  },
+  {
+    "race_datetime": "07/06/2025 18:15",
+    "course": "Doncaster",
+    "horse": "Scarlet Moon",
+    "bookie_odds": "16/1",
+    "model_odds": "9/1"
+  },
+  {
+    "race_datetime": "07/06/2025 18:45",
+    "course": "Doncaster",
+    "horse": "Watch And Shoot",
+    "bookie_odds": "20/1",
+    "model_odds": "10/1"
+  },
+  {
+    "race_datetime": "07/06/2025 18:45",
+    "course": "Doncaster",
+    "horse": "Alfa Sea Breeze",
+    "bookie_odds": "50/1",
+    "model_odds": "20/1"
+  },
+  {
+    "race_datetime": "07/06/2025 18:45",
+    "course": "Doncaster",
+    "horse": "Express Train",
+    "bookie_odds": "40/1",
+    "model_odds": "20/1"
+  },
+  {
+    "race_datetime": "07/06/2025 19:15",
+    "course": "Doncaster",
+    "horse": "Rhythm Master",
+    "bookie_odds": "17/2",
+    "model_odds": "9/2"
+  },
+  {
+    "race_datetime": "07/06/2025 19:15",
+    "course": "Doncaster",
+    "horse": "Cruyff Turn",
+    "bookie_odds": "16/1",
+    "model_odds": "9/1"
+  },
+  {
+    "race_datetime": "07/06/2025 19:15",
+    "course": "Doncaster",
+    "horse": "Eldrickjones",
+    "bookie_odds": "8/1",
+    "model_odds": "6/1"
+  },
+  {
+    "race_datetime": "07/06/2025 19:50",
+    "course": "Doncaster",
+    "horse": "Percy Jones",
+    "bookie_odds": "6/1",
+    "model_odds": "4/1"
+  },
+  {
+    "race_datetime": "07/06/2025 14:20",
+    "course": "Punchestown",
+    "horse": "Pebble Bleu",
+    "bookie_odds": "7/1",
+    "model_odds": "9/2"
+  },
+  {
+    "race_datetime": "07/06/2025 14:20",
+    "course": "Punchestown",
+    "horse": "Riggs",
+    "bookie_odds": "11/2",
+    "model_odds": "7/2"
+  }
+]
