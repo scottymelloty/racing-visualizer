@@ -684,5 +684,12 @@
     "horse": "Joey Muscles",
     "bookie_odds": "40/1",
     "model_odds": "14/1"
+  },
+  {
+    "race_datetime": "07/06/2025 18:55",
+    "course": "Saratoga",
+    "horse": "Bessie Abott",
+    "bookie_odds": "11/2",
+    "model_odds": "11/4"
   }
 ]
