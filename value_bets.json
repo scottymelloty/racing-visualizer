@@ -901,5 +901,12 @@
     "horse": "Pole Star",
     "bookie_odds": "13/2",
     "model_odds": "7/2"
+  },
+  {
+    "race_datetime": "07/06/2025 18:45",
+    "course": "Doncaster",
+    "horse": "Alfa Sea Breeze",
+    "bookie_odds": "66/1",
+    "model_odds": "20/1"
   }
 ]
