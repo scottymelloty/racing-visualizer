@@ -6,16 +6,50 @@
   <title>Value Bets</title>
   <style>
     body { background: #1e1e2f; color: #fff; font-family: 'Segoe UI', sans-serif; padding: 2rem; }
-    h1 { color: #ffd700; text-align: center; margin-bottom: 2rem; }
-    table { width: 100%; border-collapse: collapse; background: #2c2c3e; border-radius: 8px; overflow: hidden; }
-    th, td { padding: 0.8rem 1rem; text-align: center; }
-    th { background: #444; color: #ffd700; }
-    tr:nth-child(even) { background: #2a2a3d; }
-    tr:hover { background: #3a3a4d; }
+    h1 { color: #ffd700; text-align: center; margin-bottom: 1rem; }
+    .nav-link {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+    .nav-link a {
+      color: #00bfff;
+      text-decoration: none;
+      font-weight: bold;
+      font-size: 1.1rem;
+    }
+    .nav-link a:hover {
+      text-decoration: underline;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: #2c2c3e;
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    th, td {
+      padding: 0.8rem 1rem;
+      text-align: center;
+    }
+    th {
+      background: #444;
+      color: #ffd700;
+    }
+    tr:nth-child(even) {
+      background: #2a2a3d;
+    }
+    tr:hover {
+      background: #3a3a4d;
+    }
   </style>
 </head>
 <body>
   <h1>🔥 Today's Value Bets</h1>
+
+  <div class="nav-link">
+    <a href="index.html">🔙 Back to Race Visualizer</a>
+  </div>
+
   <table id="value-table">
     <thead>
       <tr>
@@ -41,17 +75,25 @@
           tbody.innerHTML = '<tr><td colspan="5">No value bets found.</td></tr>';
           return;
         }
-        data.forEach(entry => {
-          const row = document.createElement('tr');
-          row.innerHTML = `
-            <td>${entry.race_datetime}</td>
-            <td>${entry.course}</td>
-            <td>${entry.horse}</td>
-            <td>${entry.bookie_odds}</td>
-            <td>${entry.model_odds}</td>
-          `;
-          tbody.appendChild(row);
-        });
+
+        // Sort value bets by race time (assumes format like "13:30")
+        data
+          .sort((a, b) => {
+            const tA = a.race_datetime.split(' ')[1] || a.race_datetime;
+            const tB = b.race_datetime.split(' ')[1] || b.race_datetime;
+            return tA.localeCompare(tB);
+          })
+          .forEach(entry => {
+            const row = document.createElement('tr');
+            row.innerHTML = `
+              <td>${entry.race_datetime}</td>
+              <td>${entry.course}</td>
+              <td>${entry.horse}</td>
+              <td>${entry.bookie_odds}</td>
+              <td>${entry.model_odds}</td>
+            `;
+            tbody.appendChild(row);
+          });
       })
       .catch(error => {
         document.querySelector('#value-table tbody').innerHTML =
