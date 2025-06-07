@@ -943,5 +943,19 @@
     "horse": "Native Dream",
     "bookie_odds": "40/1",
     "model_odds": "14/1"
+  },
+  {
+    "race_datetime": "07/06/2025 15:15",
+    "course": "Navan",
+    "horse": "Step Back In Time",
+    "bookie_odds": "17/2",
+    "model_odds": "5/1"
+  },
+  {
+    "race_datetime": "07/06/2025 15:15",
+    "course": "Navan",
+    "horse": "My Girl Sioux",
+    "bookie_odds": "17/2",
+    "model_odds": "11/2"
   }
 ]
