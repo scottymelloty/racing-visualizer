@@ -985,5 +985,12 @@
     "horse": "Keep Me Stable",
     "bookie_odds": "9/1",
     "model_odds": "11/2"
+  },
+  {
+    "race_datetime": "07/06/2025 20:10",
+    "course": "Lingfield",
+    "horse": "Lion Ring",
+    "bookie_odds": "16/1",
+    "model_odds": "9/1"
   }
 ]
