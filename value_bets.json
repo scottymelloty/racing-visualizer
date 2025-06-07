@@ -803,5 +803,12 @@
     "horse": "Castan",
     "bookie_odds": "20/1",
     "model_odds": "10/1"
+  },
+  {
+    "race_datetime": "07/06/2025 18:15",
+    "course": "Doncaster",
+    "horse": "Pole Star",
+    "bookie_odds": "13/2",
+    "model_odds": "7/2"
   }
 ]
