@@ -957,5 +957,12 @@
     "horse": "My Girl Sioux",
     "bookie_odds": "17/2",
     "model_odds": "11/2"
+  },
+  {
+    "race_datetime": "07/06/2025 16:30",
+    "course": "Navan",
+    "horse": "Monntie",
+    "bookie_odds": "66/1",
+    "model_odds": "20/1"
   }
 ]
