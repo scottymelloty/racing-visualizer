@@ -26,5 +26,12 @@
     "horse": "Hill Road",
     "bookie_odds": "16/1",
     "model_odds": "10.61"
+  },
+  {
+    "race_datetime": "07/06/2025 00:04",
+    "course": "Saratoga",
+    "horse": "Hill Road",
+    "bookie_odds": "16/1",
+    "model_odds": "8/1"
   }
 ]
