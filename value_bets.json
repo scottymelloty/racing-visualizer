@@ -432,5 +432,12 @@
     "horse": "Marty Mcfly",
     "bookie_odds": "8/1",
     "model_odds": "6/1"
+  },
+  {
+    "race_datetime": "07/06/2025 16:25",
+    "course": "Musselburgh",
+    "horse": "Dc Cogent",
+    "bookie_odds": "9/1",
+    "model_odds": "13/2"
   }
 ]
