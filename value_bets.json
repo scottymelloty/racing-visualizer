@@ -775,5 +775,12 @@
     "horse": "Intervention",
     "bookie_odds": "33/1",
     "model_odds": "14/1"
+  },
+  {
+    "race_datetime": "07/06/2025 16:35",
+    "course": "Doncaster",
+    "horse": "Monsieur Fantaisie",
+    "bookie_odds": "10/1",
+    "model_odds": "11/2"
   }
 ]
