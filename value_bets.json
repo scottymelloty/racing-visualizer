@@ -474,5 +474,19 @@
     "horse": "Midak",
     "bookie_odds": "17/2",
     "model_odds": "5/1"
+  },
+  {
+    "race_datetime": "07/06/2025 16:15",
+    "course": "Epsom Downs",
+    "horse": "Beauld As Brass",
+    "bookie_odds": "33/1",
+    "model_odds": "12/1"
+  },
+  {
+    "race_datetime": "07/06/2025 16:15",
+    "course": "Epsom Downs",
+    "horse": "Something",
+    "bookie_odds": "40/1",
+    "model_odds": "14/1"
   }
 ]
