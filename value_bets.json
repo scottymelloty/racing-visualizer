@@ -1027,5 +1027,12 @@
     "horse": "Concrete Glory",
     "bookie_odds": "10/1",
     "model_odds": "13/2"
+  },
+  {
+    "race_datetime": "07/06/2025 20:17",
+    "course": "Saratoga",
+    "horse": "Castle Chaos",
+    "bookie_odds": "40/1",
+    "model_odds": "14/1"
   }
 ]
