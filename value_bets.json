@@ -621,5 +621,12 @@
     "horse": "Lion Ring",
     "bookie_odds": "18/1",
     "model_odds": "9/1"
+  },
+  {
+    "race_datetime": "07/06/2025 16:05",
+    "course": "Hexham",
+    "horse": "Present Fair",
+    "bookie_odds": "7/1",
+    "model_odds": "4/1"
   }
 ]
