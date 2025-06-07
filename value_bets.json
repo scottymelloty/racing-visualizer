@@ -439,5 +439,19 @@
     "horse": "Dc Cogent",
     "bookie_odds": "9/1",
     "model_odds": "13/2"
+  },
+  {
+    "race_datetime": "07/06/2025 16:40",
+    "course": "Hexham",
+    "horse": "Toombridge",
+    "bookie_odds": "7/1",
+    "model_odds": "4/1"
+  },
+  {
+    "race_datetime": "07/06/2025 16:40",
+    "course": "Hexham",
+    "horse": "Divas Doyen",
+    "bookie_odds": "9/1",
+    "model_odds": "6/1"
   }
 ]
