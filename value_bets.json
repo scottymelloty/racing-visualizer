@@ -292,5 +292,26 @@
     "horse": "Bellacanta",
     "bookie_odds": "8/1",
     "model_odds": "6/1"
+  },
+  {
+    "race_datetime": "07/06/2025 17:05",
+    "course": "Navan",
+    "horse": "The Truant",
+    "bookie_odds": "10/1",
+    "model_odds": "6/1"
+  },
+  {
+    "race_datetime": "07/06/2025 17:05",
+    "course": "Navan",
+    "horse": "Disco Boy",
+    "bookie_odds": "7/1",
+    "model_odds": "9/2"
+  },
+  {
+    "race_datetime": "07/06/2025 17:05",
+    "course": "Navan",
+    "horse": "Desert Friend",
+    "bookie_odds": "22/1",
+    "model_odds": "11/1"
   }
 ]
