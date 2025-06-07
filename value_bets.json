@@ -712,5 +712,19 @@
     "horse": "My Boy Prince",
     "bookie_odds": "17/2",
     "model_odds": "9/2"
+  },
+  {
+    "race_datetime": "07/06/2025 21:47",
+    "course": "Saratoga",
+    "horse": "Golden Channel",
+    "bookie_odds": "14/1",
+    "model_odds": "7/1"
+  },
+  {
+    "race_datetime": "07/06/2025 21:47",
+    "course": "Saratoga",
+    "horse": "Bulldoze",
+    "bookie_odds": "16/1",
+    "model_odds": "9/1"
   }
 ]
