@@ -572,5 +572,12 @@
     "horse": "Cruyff Turn",
     "bookie_odds": "16/1",
     "model_odds": "9/1"
+  },
+  {
+    "race_datetime": "07/06/2025 19:50",
+    "course": "Doncaster",
+    "horse": "Percy Jones",
+    "bookie_odds": "6/1",
+    "model_odds": "3/1"
   }
 ]
