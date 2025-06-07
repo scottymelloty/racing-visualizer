@@ -467,5 +467,12 @@
     "horse": "Nogo's Dream",
     "bookie_odds": "33/1",
     "model_odds": "12/1"
+  },
+  {
+    "race_datetime": "07/06/2025 15:30",
+    "course": "Epsom Downs",
+    "horse": "Midak",
+    "bookie_odds": "17/2",
+    "model_odds": "5/1"
   }
 ]
