@@ -740,5 +740,12 @@
     "horse": "Patch Adams",
     "bookie_odds": "6/1",
     "model_odds": "7/2"
+  },
+  {
+    "race_datetime": "07/06/2025 23:09",
+    "course": "Saratoga",
+    "horse": "Corruption",
+    "bookie_odds": "12/1",
+    "model_odds": "13/2"
   }
 ]
