@@ -579,5 +579,19 @@
     "horse": "Percy Jones",
     "bookie_odds": "6/1",
     "model_odds": "3/1"
+  },
+  {
+    "race_datetime": "07/06/2025 16:55",
+    "course": "Musselburgh",
+    "horse": "Arranmore",
+    "bookie_odds": "11/1",
+    "model_odds": "13/2"
+  },
+  {
+    "race_datetime": "07/06/2025 16:55",
+    "course": "Musselburgh",
+    "horse": "Scarriff",
+    "bookie_odds": "8/1",
+    "model_odds": "5/1"
   }
 ]
