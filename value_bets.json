@@ -964,5 +964,12 @@
     "horse": "Monntie",
     "bookie_odds": "66/1",
     "model_odds": "20/1"
+  },
+  {
+    "race_datetime": "07/06/2025 17:05",
+    "course": "Navan",
+    "horse": "Zoffanien",
+    "bookie_odds": "10/1",
+    "model_odds": "13/2"
   }
 ]
