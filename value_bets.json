@@ -369,5 +369,19 @@
     "horse": "Lahinch Wave",
     "bookie_odds": "7/2",
     "model_odds": "5/2"
+  },
+  {
+    "race_datetime": "07/06/2025 18:37",
+    "course": "Lingfield",
+    "horse": "Odin Legacy",
+    "bookie_odds": "10/3",
+    "model_odds": "9/4"
+  },
+  {
+    "race_datetime": "07/06/2025 18:37",
+    "course": "Lingfield",
+    "horse": "Afloat",
+    "bookie_odds": "6/1",
+    "model_odds": "4/1"
   }
 ]
