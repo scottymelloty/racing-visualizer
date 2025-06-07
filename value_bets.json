@@ -222,5 +222,26 @@
     "horse": "Riggs",
     "bookie_odds": "11/2",
     "model_odds": "7/2"
+  },
+  {
+    "race_datetime": "07/06/2025 16:10",
+    "course": "Punchestown",
+    "horse": "Barryroe Madam",
+    "bookie_odds": "11/4",
+    "model_odds": "15/8"
+  },
+  {
+    "race_datetime": "07/06/2025 16:10",
+    "course": "Punchestown",
+    "horse": "Kalnoo",
+    "bookie_odds": "15/2",
+    "model_odds": "5/1"
+  },
+  {
+    "race_datetime": "07/06/2025 16:10",
+    "course": "Punchestown",
+    "horse": "Fortune The Brave",
+    "bookie_odds": "15/2",
+    "model_odds": "11/2"
   }
 ]
