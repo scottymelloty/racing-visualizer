@@ -607,5 +607,12 @@
     "horse": "Leave Her To Me",
     "bookie_odds": "13/2",
     "model_odds": "4/1"
+  },
+  {
+    "race_datetime": "07/06/2025 18:37",
+    "course": "Lingfield",
+    "horse": "Afloat",
+    "bookie_odds": "11/2",
+    "model_odds": "10/3"
   }
 ]
