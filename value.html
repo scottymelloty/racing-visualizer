@@ -76,24 +76,33 @@
           return;
         }
 
-        // Sort value bets by race time (assumes format like "13:30")
-        data
-          .sort((a, b) => {
-            const tA = a.race_datetime.split(' ')[1] || a.race_datetime;
-            const tB = b.race_datetime.split(' ')[1] || b.race_datetime;
-            return tA.localeCompare(tB);
-          })
-          .forEach(entry => {
-            const row = document.createElement('tr');
-            row.innerHTML = `
-              <td>${entry.race_datetime}</td>
-              <td>${entry.course}</td>
-              <td>${entry.horse}</td>
-              <td>${entry.bookie_odds}</td>
-              <td>${entry.model_odds}</td>
-            `;
-            tbody.appendChild(row);
-          });
+        // Deduplicate by race_datetime + horse
+        const uniqueMap = new Map();
+        data.forEach(entry => {
+          const key = `${entry.race_datetime}_${entry.horse}`;
+          uniqueMap.set(key, entry); // Latest occurrence wins
+        });
+
+        const uniqueEntries = Array.from(uniqueMap.values());
+
+        // Sort by time
+        uniqueEntries.sort((a, b) => {
+          const tA = a.race_datetime.split(' ')[1] || a.race_datetime;
+          const tB = b.race_datetime.split(' ')[1] || b.race_datetime;
+          return tA.localeCompare(tB);
+        });
+
+        uniqueEntries.forEach(entry => {
+          const row = document.createElement('tr');
+          row.innerHTML = `
+            <td>${entry.race_datetime}</td>
+            <td>${entry.course}</td>
+            <td>${entry.horse}</td>
+            <td>${entry.bookie_odds}</td>
+            <td>${entry.model_odds}</td>
+          `;
+          tbody.appendChild(row);
+        });
       })
       .catch(error => {
         document.querySelector('#value-table tbody').innerHTML =
