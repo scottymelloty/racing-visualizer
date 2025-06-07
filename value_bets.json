@@ -1181,5 +1181,12 @@
     "horse": "Madaket Road",
     "bookie_odds": "8/1",
     "model_odds": "9/2"
+  },
+  {
+    "race_datetime": "07/06/2025 00:04",
+    "course": "Saratoga",
+    "horse": "Hill Road",
+    "bookie_odds": "14/1",
+    "model_odds": "15/2"
   }
 ]
