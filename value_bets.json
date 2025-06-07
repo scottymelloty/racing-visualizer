@@ -593,5 +593,19 @@
     "horse": "Scarriff",
     "bookie_odds": "8/1",
     "model_odds": "5/1"
+  },
+  {
+    "race_datetime": "07/06/2025 17:55",
+    "course": "Worcester",
+    "horse": "Lahinch Wave",
+    "bookie_odds": "7/2",
+    "model_odds": "9/4"
+  },
+  {
+    "race_datetime": "07/06/2025 17:55",
+    "course": "Worcester",
+    "horse": "Leave Her To Me",
+    "bookie_odds": "13/2",
+    "model_odds": "4/1"
   }
 ]
