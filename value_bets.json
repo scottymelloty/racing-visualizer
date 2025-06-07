@@ -355,5 +355,19 @@
     "horse": "Coramento",
     "bookie_odds": "8/1",
     "model_odds": "6/1"
+  },
+  {
+    "race_datetime": "07/06/2025 17:55",
+    "course": "Worcester",
+    "horse": "Klervia",
+    "bookie_odds": "22/1",
+    "model_odds": "9/1"
+  },
+  {
+    "race_datetime": "07/06/2025 17:55",
+    "course": "Worcester",
+    "horse": "Lahinch Wave",
+    "bookie_odds": "7/2",
+    "model_odds": "5/2"
   }
 ]
