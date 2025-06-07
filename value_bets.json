@@ -677,5 +677,12 @@
     "horse": "Quick To Accuse",
     "bookie_odds": "9/2",
     "model_odds": "11/4"
+  },
+  {
+    "race_datetime": "07/06/2025 18:15",
+    "course": "Saratoga",
+    "horse": "Joey Muscles",
+    "bookie_odds": "40/1",
+    "model_odds": "14/1"
   }
 ]
