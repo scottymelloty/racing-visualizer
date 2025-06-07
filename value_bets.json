@@ -558,5 +558,19 @@
     "horse": "Alfa Sea Breeze",
     "bookie_odds": "50/1",
     "model_odds": "20/1"
+  },
+  {
+    "race_datetime": "07/06/2025 19:15",
+    "course": "Doncaster",
+    "horse": "Rhythm Master",
+    "bookie_odds": "17/2",
+    "model_odds": "5/1"
+  },
+  {
+    "race_datetime": "07/06/2025 19:15",
+    "course": "Doncaster",
+    "horse": "Cruyff Turn",
+    "bookie_odds": "16/1",
+    "model_odds": "9/1"
   }
 ]
