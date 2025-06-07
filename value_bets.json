@@ -1174,5 +1174,12 @@
     "horse": "Crudo",
     "bookie_odds": "22/1",
     "model_odds": "9/1"
+  },
+  {
+    "race_datetime": "07/06/2025 22:28",
+    "course": "Saratoga",
+    "horse": "Madaket Road",
+    "bookie_odds": "8/1",
+    "model_odds": "9/2"
   }
 ]
