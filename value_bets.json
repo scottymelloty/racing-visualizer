@@ -488,5 +488,12 @@
     "horse": "Something",
     "bookie_odds": "40/1",
     "model_odds": "14/1"
+  },
+  {
+    "race_datetime": "07/06/2025 17:00",
+    "course": "Epsom Downs",
+    "horse": "War Hawk",
+    "bookie_odds": "7/2",
+    "model_odds": "9/4"
   }
 ]
