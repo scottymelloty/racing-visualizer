@@ -705,5 +705,12 @@
     "horse": "Crazy Mason",
     "bookie_odds": "7/1",
     "model_odds": "9/2"
+  },
+  {
+    "race_datetime": "07/06/2025 21:08",
+    "course": "Saratoga",
+    "horse": "My Boy Prince",
+    "bookie_odds": "17/2",
+    "model_odds": "9/2"
   }
 ]
