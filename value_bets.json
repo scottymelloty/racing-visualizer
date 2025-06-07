@@ -1083,5 +1083,19 @@
     "horse": "Bulldoze",
     "bookie_odds": "10/1",
     "model_odds": "13/2"
+  },
+  {
+    "race_datetime": "07/06/2025 22:28",
+    "course": "Saratoga",
+    "horse": "Patch Adams",
+    "bookie_odds": "6/1",
+    "model_odds": "3/1"
+  },
+  {
+    "race_datetime": "07/06/2025 22:28",
+    "course": "Saratoga",
+    "horse": "Big Truzz",
+    "bookie_odds": "6/1",
+    "model_odds": "7/2"
   }
 ]
