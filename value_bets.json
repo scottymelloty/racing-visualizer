@@ -789,5 +789,19 @@
     "horse": "Electoral College",
     "bookie_odds": "4/1",
     "model_odds": "5/2"
+  },
+  {
+    "race_datetime": "07/06/2025 17:45",
+    "course": "Doncaster",
+    "horse": "Hiya Maite",
+    "bookie_odds": "6/1",
+    "model_odds": "7/2"
+  },
+  {
+    "race_datetime": "07/06/2025 17:45",
+    "course": "Doncaster",
+    "horse": "Castan",
+    "bookie_odds": "20/1",
+    "model_odds": "10/1"
   }
 ]
