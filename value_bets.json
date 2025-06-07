@@ -670,5 +670,12 @@
     "horse": "Jm Jungle",
     "bookie_odds": "7/1",
     "model_odds": "9/2"
+  },
+  {
+    "race_datetime": "07/06/2025 17:35",
+    "course": "Saratoga",
+    "horse": "Quick To Accuse",
+    "bookie_odds": "9/2",
+    "model_odds": "11/4"
   }
 ]
