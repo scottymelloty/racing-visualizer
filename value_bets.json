@@ -761,5 +761,12 @@
     "horse": "Dream Harder",
     "bookie_odds": "22/1",
     "model_odds": "9/1"
+  },
+  {
+    "race_datetime": "07/06/2025 17:00",
+    "course": "Epsom Downs",
+    "horse": "War Hawk",
+    "bookie_odds": "4/1",
+    "model_odds": "5/2"
   }
 ]
