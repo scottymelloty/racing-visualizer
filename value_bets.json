@@ -313,5 +313,33 @@
     "horse": "Desert Friend",
     "bookie_odds": "22/1",
     "model_odds": "11/1"
+  },
+  {
+    "race_datetime": "07/06/2025 17:35",
+    "course": "Navan",
+    "horse": "Omakase",
+    "bookie_odds": "11/1",
+    "model_odds": "13/2"
+  },
+  {
+    "race_datetime": "07/06/2025 17:35",
+    "course": "Navan",
+    "horse": "Slieve Bearnagh",
+    "bookie_odds": "15/2",
+    "model_odds": "9/2"
+  },
+  {
+    "race_datetime": "07/06/2025 17:35",
+    "course": "Navan",
+    "horse": "Waystar",
+    "bookie_odds": "9/1",
+    "model_odds": "13/2"
+  },
+  {
+    "race_datetime": "07/06/2025 17:35",
+    "course": "Navan",
+    "horse": "Gamigin",
+    "bookie_odds": "18/1",
+    "model_odds": "10/1"
   }
 ]
