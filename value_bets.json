@@ -922,5 +922,19 @@
     "horse": "Cruyff Turn",
     "bookie_odds": "18/1",
     "model_odds": "9/1"
+  },
+  {
+    "race_datetime": "07/06/2025 14:20",
+    "course": "Punchestown",
+    "horse": "Prince Zaltar",
+    "bookie_odds": "6/1",
+    "model_odds": "7/2"
+  },
+  {
+    "race_datetime": "07/06/2025 14:20",
+    "course": "Punchestown",
+    "horse": "Pebble Bleu",
+    "bookie_odds": "17/2",
+    "model_odds": "11/2"
   }
 ]
