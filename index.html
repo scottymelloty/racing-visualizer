@@ -5,23 +5,100 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Race Visualizer</title>
   <style>
-    body { margin: 0; font-family: 'Segoe UI', sans-serif; background: #1e1e2f; color: #f5f5f5; display: flex; flex-direction: column; align-items: center; }
-    header { background: linear-gradient(135deg, #222 40%, #444); width: 100%; padding: 2rem 1rem; text-align: center; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.6); }
-    header h1 { margin: 0; font-size: 2.5rem; color: #ffd700; letter-spacing: 1px; }
-    .container { width: 100%; max-width: 1200px; padding: 2rem; }
-    .container h2 { width: 100%; text-align: left; margin: 2rem 0 1rem; color: #ffd700; border-bottom: 1px solid #444; padding-bottom: 0.3rem; }
-    .course-group { display: flex; flex-wrap: wrap; gap: 1rem; margin-bottom: 2rem; }
-    .card { background: #2c2c3e; border-radius: 12px; padding: 1.5rem; text-align: center; width: 220px; transition: transform 0.2s ease, box-shadow 0.3s ease; box-shadow: 0 0 10px rgba(255, 255, 255, 0.05); }
-    .card:hover { transform: translateY(-6px); box-shadow: 0 0 15px rgba(255, 215, 0, 0.4); }
-    .card a { text-decoration: none; color: #ffd700; font-weight: bold; font-size: 1.1rem; }
-    footer { margin-top: 3rem; font-size: 0.9rem; color: #888; text-align: center; padding-bottom: 2rem; }
-    @media (max-width: 600px) { .card { width: 90%; } header h1 { font-size: 1.8rem; } }
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: #1e1e2f;
+      color: #f5f5f5;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    header {
+      background: linear-gradient(135deg, #222 40%, #444);
+      width: 100%;
+      padding: 2rem 1rem 1rem;
+      text-align: center;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.6);
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+      color: #ffd700;
+      letter-spacing: 1px;
+    }
+    .nav-link {
+      margin-top: 1rem;
+    }
+    .nav-link a {
+      color: #00ffff;
+      font-size: 1.2rem;
+      font-weight: bold;
+      text-decoration: none;
+      transition: color 0.2s;
+    }
+    .nav-link a:hover {
+      color: #ffd700;
+    }
+    .container {
+      width: 100%;
+      max-width: 1200px;
+      padding: 2rem;
+    }
+    .container h2 {
+      width: 100%;
+      text-align: left;
+      margin: 2rem 0 1rem;
+      color: #ffd700;
+      border-bottom: 1px solid #444;
+      padding-bottom: 0.3rem;
+    }
+    .course-group {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      margin-bottom: 2rem;
+    }
+    .card {
+      background: #2c2c3e;
+      border-radius: 12px;
+      padding: 1.5rem;
+      text-align: center;
+      width: 220px;
+      transition: transform 0.2s ease, box-shadow 0.3s ease;
+      box-shadow: 0 0 10px rgba(255, 255, 255, 0.05);
+    }
+    .card:hover {
+      transform: translateY(-6px);
+      box-shadow: 0 0 15px rgba(255, 215, 0, 0.4);
+    }
+    .card a {
+      text-decoration: none;
+      color: #ffd700;
+      font-weight: bold;
+      font-size: 1.1rem;
+    }
+    footer {
+      margin-top: 3rem;
+      font-size: 0.9rem;
+      color: #888;
+      text-align: center;
+      padding-bottom: 2rem;
+    }
+    @media (max-width: 600px) {
+      .card { width: 90%; }
+      header h1 { font-size: 1.8rem; }
+    }
   </style>
 </head>
 <body>
   <header>
     <h1>🏇 Race Visualizer Index</h1>
+    <div class="nav-link">
+      👉 <a href="value.html">View Today’s Value Bets</a>
+    </div>
   </header>
+
   <div class="container">
     <h2>🏁 Chepstow</h2>
     <div class="course-group">
@@ -30,6 +107,7 @@
       <div class="card"><a href="19-30_Chepstow.html">19:30 Chepstow</a></div>
       <div class="card"><a href="21-00_Chepstow.html">21:00 Chepstow</a></div>
     </div>
+
     <h2>🏁 Doncaster</h2>
     <div class="course-group">
       <div class="card"><a href="16-00_Doncaster.html">16:00 Doncaster</a></div>
@@ -41,29 +119,35 @@
       <div class="card"><a href="19-15_Doncaster.html">19:15 Doncaster</a></div>
       <div class="card"><a href="19-50_Doncaster.html">19:50 Doncaster</a></div>
     </div>
-    <h2>🏁 Epsom_Downs</h2>
+
+    <h2>🏁 Epsom Downs</h2>
     <div class="course-group">
-      <div class="card"><a href="14-45_Epsom_Downs.html">14:45 Epsom_Downs</a></div>
-      <div class="card"><a href="15-30_Epsom_Downs.html">15:30 Epsom_Downs</a></div>
-      <div class="card"><a href="16-15_Epsom_Downs.html">16:15 Epsom_Downs</a></div>
-      <div class="card"><a href="17-00_Epsom_Downs.html">17:00 Epsom_Downs</a></div>
-      <div class="card"><a href="17-40_Epsom_Downs.html">17:40 Epsom_Downs</a></div>
+      <div class="card"><a href="14-10_Epsom_Downs.html">14:10 Epsom Downs</a></div>
+      <div class="card"><a href="14-45_Epsom_Downs.html">14:45 Epsom Downs</a></div>
+      <div class="card"><a href="15-30_Epsom_Downs.html">15:30 Epsom Downs</a></div>
+      <div class="card"><a href="16-15_Epsom_Downs.html">16:15 Epsom Downs</a></div>
+      <div class="card"><a href="17-00_Epsom_Downs.html">17:00 Epsom Downs</a></div>
+      <div class="card"><a href="17-40_Epsom_Downs.html">17:40 Epsom Downs</a></div>
     </div>
+
     <h2>🏁 Hexham</h2>
     <div class="course-group">
       <div class="card"><a href="16-05_Hexham.html">16:05 Hexham</a></div>
       <div class="card"><a href="16-40_Hexham.html">16:40 Hexham</a></div>
     </div>
+
     <h2>🏁 Lingfield</h2>
     <div class="course-group">
       <div class="card"><a href="18-37_Lingfield.html">18:37 Lingfield</a></div>
       <div class="card"><a href="20-10_Lingfield.html">20:10 Lingfield</a></div>
     </div>
+
     <h2>🏁 Musselburgh</h2>
     <div class="course-group">
       <div class="card"><a href="16-25_Musselburgh.html">16:25 Musselburgh</a></div>
       <div class="card"><a href="16-55_Musselburgh.html">16:55 Musselburgh</a></div>
     </div>
+
     <h2>🏁 Navan</h2>
     <div class="course-group">
       <div class="card"><a href="15-15_Navan.html">15:15 Navan</a></div>
@@ -71,17 +155,21 @@
       <div class="card"><a href="17-05_Navan.html">17:05 Navan</a></div>
       <div class="card"><a href="17-35_Navan.html">17:35 Navan</a></div>
     </div>
+
     <h2>🏁 Punchestown</h2>
     <div class="course-group">
+      <div class="card"><a href="14-20_Punchestown.html">14:20 Punchestown</a></div>
       <div class="card"><a href="16-10_Punchestown.html">16:10 Punchestown</a></div>
       <div class="card"><a href="16-45_Punchestown.html">16:45 Punchestown</a></div>
     </div>
+
     <h2>🏁 Worcester</h2>
     <div class="course-group">
       <div class="card"><a href="17-25_Worcester.html">17:25 Worcester</a></div>
       <div class="card"><a href="17-55_Worcester.html">17:55 Worcester</a></div>
     </div>
   </div>
+
   <footer>
     &copy; 2025 ScottyMelloty Racing Visualizer • All rights reserved
   </footer>
