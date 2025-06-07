@@ -264,5 +264,19 @@
     "horse": "Driveonwill",
     "bookie_odds": "7/1",
     "model_odds": "5/1"
+  },
+  {
+    "race_datetime": "07/06/2025 15:15",
+    "course": "Navan",
+    "horse": "Step Back In Time",
+    "bookie_odds": "7/1",
+    "model_odds": "4/1"
+  },
+  {
+    "race_datetime": "07/06/2025 15:15",
+    "course": "Navan",
+    "horse": "My Girl Sioux",
+    "bookie_odds": "11/1",
+    "model_odds": "15/2"
   }
 ]
