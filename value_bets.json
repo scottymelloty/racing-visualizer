@@ -691,5 +691,19 @@
     "horse": "Bessie Abott",
     "bookie_odds": "11/2",
     "model_odds": "11/4"
+  },
+  {
+    "race_datetime": "07/06/2025 19:37",
+    "course": "Saratoga",
+    "horse": "Surveillance",
+    "bookie_odds": "20/1",
+    "model_odds": "9/1"
+  },
+  {
+    "race_datetime": "07/06/2025 19:37",
+    "course": "Saratoga",
+    "horse": "Crazy Mason",
+    "bookie_odds": "7/1",
+    "model_odds": "9/2"
   }
 ]
