@@ -978,5 +978,12 @@
     "horse": "Omakase",
     "bookie_odds": "15/2",
     "model_odds": "9/2"
+  },
+  {
+    "race_datetime": "07/06/2025 16:55",
+    "course": "Musselburgh",
+    "horse": "Keep Me Stable",
+    "bookie_odds": "9/1",
+    "model_odds": "11/2"
   }
 ]
