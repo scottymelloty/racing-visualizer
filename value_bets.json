@@ -656,5 +656,19 @@
     "horse": "Jm Jungle",
     "bookie_odds": "7/1",
     "model_odds": "9/2"
+  },
+  {
+    "race_datetime": "07/06/2025 14:45",
+    "course": "Epsom Downs",
+    "horse": "Existent",
+    "bookie_odds": "10/1",
+    "model_odds": "6/1"
+  },
+  {
+    "race_datetime": "07/06/2025 14:45",
+    "course": "Epsom Downs",
+    "horse": "Jm Jungle",
+    "bookie_odds": "7/1",
+    "model_odds": "9/2"
   }
 ]
