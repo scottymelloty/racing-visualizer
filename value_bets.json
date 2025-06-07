@@ -509,5 +509,12 @@
     "horse": "Let's Go Hugo",
     "bookie_odds": "11/2",
     "model_odds": "10/3"
+  },
+  {
+    "race_datetime": "07/06/2025 16:35",
+    "course": "Doncaster",
+    "horse": "Monsieur Fantaisie",
+    "bookie_odds": "7/1",
+    "model_odds": "4/1"
   }
 ]
