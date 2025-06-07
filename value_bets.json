@@ -278,5 +278,19 @@
     "horse": "My Girl Sioux",
     "bookie_odds": "11/1",
     "model_odds": "15/2"
+  },
+  {
+    "race_datetime": "07/06/2025 16:30",
+    "course": "Navan",
+    "horse": "Laoise Eile",
+    "bookie_odds": "6/1",
+    "model_odds": "4/1"
+  },
+  {
+    "race_datetime": "07/06/2025 16:30",
+    "course": "Navan",
+    "horse": "Bellacanta",
+    "bookie_odds": "8/1",
+    "model_odds": "6/1"
   }
 ]
